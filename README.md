@@ -1,2 +1,1 @@
-# android
-android load
+Loading 10000 rows in android
